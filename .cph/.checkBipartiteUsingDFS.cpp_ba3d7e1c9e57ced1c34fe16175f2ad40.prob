@@ -1,0 +1,1 @@
+{"name":"Local: checkBipartiteUsingDFS","url":"d:\\Graphs\\checkBipartiteUsingDFS.cpp","tests":[{"id":1650601445200,"input":"3\n2\n0 1\n1 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Graphs\\checkBipartiteUsingDFS.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: detectCycleUsingDFS","url":"d:\\Graphs\\detectCycleUsingDFS.cpp","tests":[{"id":1650525381516,"input":"3\n3\n1 2\n2 3\n1 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Graphs\\detectCycleUsingDFS.cpp","group":"local","local":true}
