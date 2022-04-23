@@ -1,0 +1,1 @@
+{"name":"Local: shortestPathInUndirectedGraph","url":"d:\\Graphs\\shortestPathInUndirectedGraph.cpp","tests":[{"id":1650691991302,"input":"3\n3\n0 1\n1 2\n2 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Graphs\\shortestPathInUndirectedGraph.cpp","group":"local","local":true}
